@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+  <title>QUALITY AUDITING TOOL (QAT)</title>"C:\Users\u1908014\Desktop\CSS\stylesheet125.css"
+
+    
+</head>
+<body>
+  <h1>DOCUMENT TYPE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QUALITY AUDITING TOOL (QAT)</h1>
+  <br><br><br>
+  <h1>DOCUMENT NUMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UMEME/QAT/OH/QIDTX-007</h1>
+  <br><br><br>
+  <h1>DOCUMENT TYPE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D TX AND OVERHEAD LINE INSPECTION CHECK SHEET</h1>
+  <br><br><br>
+  <h1>LAST REV DATE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;March, 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REVISION NO. 02</h1>
+  <br><br><br>
+  <h1>PART A: GENERAL INFORMATION</h1>
+  <br><br><br>
+  <div class="form-section">
+    <h2>Project category (tick):</h2>
+    <form>
+      <label>
+        <input type="radio" name="choice" value="MEMD SCHEME"> MEMD SCHEME
+      </label>
+      <label>
+        <input type="radio" name="choice" value="MTCE WORKS"> MTCE WORKS
+      </label>
+      <label>
+        <input type="radio" name="choice" value="UMEME PROJECT"> UMEME PROJECT
+      </label>
+      <label>
+        <input type="radio" name="choice" value="OTHERS SPECIFY"> OTHERS SPECIFY
+      </label><br><br><br>
+    </form>
+  </div>
+
+  <div class="form-section">
+    <form>
+      <label>
+        PROJECT NAME:
+        <input type="text" name="project_name">
+      </label><br><br><br>
+      <label>
+        CONTRACTOR:
+        <input type="text" name="contractor">
+      </label><br><br><br>
+      <label>
+        PROJECT OWNER:
+        <input type="text" name="project_owner">
+      </label><br><br><br>
+      <label>
+        QUALITY ASSURANCE REPRESENTATIVE:
+        <input type="text" name="qa_representative">
+      </label><br><br><br>
+    </form>
+  </div>
+
+  <div class="form-section">
+    <form>
+      <label>
+        DISTRICT:
+        <input type="text" name="district">
+      </label><br><br><br>
+      <label>
+        SCHEME NAME:
+        <input type="text" name="scheme_name">
+      </label><br><br><br>
+      <label>
+        FEEDER:
+        <input type="text" name="feeder">
+      </label><br><br><br>
+      <label>
+        LOCATION:
+        <input type="text" name="location">
+      </label><br><br><br>
+      <label>
+        T-OFF LOCATION:
+        <input type="text" name="toff_location">
+      </label><br><br><br>
+      <label>
+        DATE:
+        <input type="date" name="current_date">
+      </label><br><br><br>
+    </form>
+  </div>
+</body>
+</html>
